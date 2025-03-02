@@ -34,7 +34,7 @@ High score tracking.
 
 Ensure you have Python 3.x installed along with the required libraries.
 
-How to Play
+-How to Play
 
 1.Choose a game mode (Timed or Untimed).
 
